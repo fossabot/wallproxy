@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwallproxy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwallproxy?ref=badge_shield)
+
 wallproxy
 ===
 New version of wallproxy, a general purpose proxy framework in Python. It can run on Python 2.5/2.6/2.7, and an Python environment with ssl, pyOpenSSL, gevent is recommended.
@@ -86,3 +88,6 @@ def config():
 
     return find_proxy_handler
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwallproxy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwallproxy?ref=badge_large)
